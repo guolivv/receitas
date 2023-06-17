@@ -1,2 +1,2 @@
 # receitas
-Projeto proposto para aplicar as boas práticas de desenvolvimento HTML e CSS.
+Projeto proposto por [The Odin Project] (https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
